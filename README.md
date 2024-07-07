@@ -9,10 +9,10 @@
 #### 软件架构
 软件采用C和python
 
-![输入图片说明](imagesimage1.png)
-![输入图片说明](imagesimage2.png)
-![输入图片说明](imagesimage3.png)
-![输入图片说明](imagesimage4.png)
+![输入图片说明](img/imagesimage1.png)
+![输入图片说明](img/imagesimage2.png)
+![输入图片说明](img/imagesimage3.png)
+![输入图片说明](img/imagesimage4.png)
 #### 使用说明
  **默认采用GPU加速（速度快，用显存），如果只用CPU的话内存占用会多点，然后cpu的运算模式肯定速度会慢一点，如果在VM虚拟机上运行会存在无法调用GPU的情况** 
 
