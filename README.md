@@ -2,7 +2,7 @@
 
 #### 前提
 
-這是由 [gitee.com/liyouyinjia/ctftools-all-in-one] [https://gitee.com/liyouyinjia/ctftools-all-in-one] 轉發至 github 過來，
+這是由 https://gitee.com/liyouyinjia/ctftools-all-in-one 轉發至 Github 過來，
 目的讓牆內外的都能夠下載到本程式。方案归 @liyouyinjia 及 参与贡献者拥有。
 
 #### 介绍
