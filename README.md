@@ -2,8 +2,8 @@
 
 #### 前提
 
-這是由 https://gitee.com/liyouyinjia/ctftools-all-in-one 轉發至 Github 過來，
-目的讓牆內外的都能夠下載到本程式。
+这是由 https://gitee.com/liyouyinjia/ctftools-all-in-one 转发至 Github 过来，
+目的让墙内外的都能够下载到本程式。
 <br> 方案归 @liyouyinjia 及 参与贡献者拥有。
 
 #### 介绍
