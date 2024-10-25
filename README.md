@@ -17,7 +17,7 @@
 
 #### 视频范例 (轉至参与贡献者T_N_T_liyou)
 
-[![视频范例](img/video-preview-TNTliyou.png)](https://www.bilibili.com/video/BV1S7xveBEJk)
+[![视频范例](img/video-preview-T_N_T_liyou.png)](https://www.bilibili.com/video/BV1bKtXeoEzX)
 
 #### 软件架构
 软件采用C和python
